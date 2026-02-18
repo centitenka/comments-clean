@@ -1,13 +1,13 @@
 ---
-name: comments-remove
+name: comments-clean
 description: >
   Remove redundant comments from code files. Supports three cleaning levels
   (conservative, balanced, aggressive). Triggered by: clean comments, remove comments,
-  strip comments, comments-remove, delete comments, purge comments, 清除注释, 删除注释.
+  strip comments, comments-clean, delete comments, purge comments, 清除注释, 删除注释.
 user_invocable: true
 ---
 
-# Comments Remove
+# Comments Clean
 
 Accurately and efficiently remove redundant comments from code files in a repository. Supports all common programming languages with three cleaning levels.
 
